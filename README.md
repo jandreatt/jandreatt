@@ -23,7 +23,7 @@ Email: jandreatta@furb.br
 
 ---
 
-✨ Este perfil está em constante evolução, acompanhando meu aprendizado e minhas explorações na computação.  
+✨ Este perfil está em constante construção e evolução, acompanhando meu aprendizado e minhas explorações na computação.  
 
 <!--
 **jandreatt/jandreatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
